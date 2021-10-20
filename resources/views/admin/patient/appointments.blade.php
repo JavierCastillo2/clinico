@@ -6,7 +6,7 @@
 <!-- DataTables -->
 {!! Html::style('adminlte/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css') !!}
 {!! Html::style('adminlte/plugins/datatables-responsive/css/responsive.bootstrap4.min.css') !!}
-{!! Html::style('adminlte/plugins/datatables-buttons/css/buttons.bootstrap4.min.css') !!} 
+{!! Html::style('adminlte/plugins/datatables-buttons/css/buttons.bootstrap4.min.css') !!}
 @endsection
 @section('content')
 <div class="content-wrapper">
@@ -46,13 +46,13 @@
           <div class="col-md-9">
             <div class="card">
                 <div class="card-header p-2">
-  
+
                   <h3 class="card-title">Citas de {{$user->name}}</h3>
-  
+
                 </div><!-- /.card-header -->
                 <div class="card-body">
                   <div class="tab-content">
-  
+
                       <div class="card-body table-responsive">
                           <table id="example2" class="table table-hover text-nowrap">
                               <thead>
@@ -79,6 +79,10 @@
                                         </i>
                                         Editar
                                     </a>
+                                    <a class="btn btn-danger btn-sm" href="{{route('back.patient.appointment.edit',[$user, $appointment])}}">
+                                        <i class="fas fa-file-pdf"></i>
+                                        PDF
+                                    </a>
                                   </td>
                                 </tr>
                                 {{--  {{route('back.patient.appointment.update', $appointment)}}  --}}
@@ -86,7 +90,7 @@
                               </tbody>
                           </table>
                       </div>
-  
+
                   </div>
                   <!-- /.tab-content -->
                 </div><!-- /.card-body -->

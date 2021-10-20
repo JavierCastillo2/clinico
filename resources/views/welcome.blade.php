@@ -11,10 +11,8 @@
                 <div class="row h-100 align-items-center">
                     <div class="col-12">
                         <div class="hero-slides-content">
-                            <h2 data-animation="fadeInUp" data-delay="100ms">Medical Services that <br>You can Trust
-                                100%</h2>
-                            <h6 data-animation="fadeInUp" data-delay="400ms">Lorem ipsum dolor sit amet,
-                                consectetuer adipiscing elit sed diam nonummy nibh euismod.</h6>
+                            <h2 data-animation="fadeInUp" data-delay="100ms">Servicios medicos en <br>los que puedes confiar</h2>
+                            <h6 data-animation="fadeInUp" data-delay="400ms">se tiene la seguridad y la confianza de que la salud será monitoreada por personal médico capacitado.</h6>
                             <a href="#" class="btn medilife-btn mt-50" data-animation="fadeInUp"
                                 data-delay="700ms">Discover Medifile <span>+</span></a>
                         </div>
@@ -29,10 +27,9 @@
                 <div class="row h-100 align-items-center">
                     <div class="col-12">
                         <div class="hero-slides-content">
-                            <h2 data-animation="fadeInUp" data-delay="100ms">Medical Services that <br>You can Trust
+                            <h2 data-animation="fadeInUp" data-delay="100ms">Servicios medicos en<br>los que puedes confiar
                                 100%</h2>
-                            <h6 data-animation="fadeInUp" data-delay="400ms">Lorem ipsum dolor sit amet,
-                                consectetuer adipiscing elit sed diam nonummy nibh euismod.</h6>
+                            <h6 data-animation="fadeInUp" data-delay="400ms">se tiene la seguridad y la confianza de que la salud será monitoreada por personal médico capacitado.</h6>
                             <a href="#" class="btn medilife-btn mt-50" data-animation="fadeInUp"
                                 data-delay="700ms">Discover Medifile <span>+</span></a>
                         </div>
@@ -47,10 +44,9 @@
                 <div class="row h-100 align-items-center">
                     <div class="col-12">
                         <div class="hero-slides-content">
-                            <h2 data-animation="fadeInUp" data-delay="100ms">Medical Services that <br>You can Trust
+                            <h2 data-animation="fadeInUp" data-delay="100ms">Servicios medicos en <br>los que puedes confiar
                                 100%</h2>
-                            <h6 data-animation="fadeInUp" data-delay="400ms">Lorem ipsum dolor sit amet,
-                                consectetuer adipiscing elit sed diam nonummy nibh euismod.</h6>
+                            <h6 data-animation="fadeInUp" data-delay="400ms">se tiene la seguridad y la confianza de que la salud será monitoreada por personal médico capacitado.</h6>
                             <a href="#" class="btn medilife-btn mt-50" data-animation="fadeInUp"
                                 data-delay="700ms">Discover Medifile <span>+</span></a>
                         </div>
@@ -67,10 +63,8 @@
         <div class="row">
             <div class="col-12 col-lg-4">
                 <div class="medica-about-content">
-                    <h2>We always put our pacients first</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                        tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet,
-                        consectetuer adipiscing eli.</p>
+                    <h2>Siempre ponemos a nuestros pacientes primero</h2>
+                    <p>Sólo el médico y el dramaturgo gozan del raro privilegio de cobrar las desazones que nos dan.</p>
                     <a href="#" class="btn medilife-btn mt-50">View the services <span>+</span></a>
                 </div>
             </div>
@@ -83,9 +77,8 @@
                                 <i class="icon-doctor"></i>
                             </div>
                             <div class="service-content">
-                                <h5>The Best Doctors</h5>
-                                <p>Lorem ipsum dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh
-                                    euismod tincidunt ut.</p>
+                                <h5>La mejor doctora</h5>
+                                <p>La mejor doctora siempre te cuida en tus enfermedades.</p>
                             </div>
                         </div>
                     </div>
@@ -96,9 +89,8 @@
                                 <i class="icon-blood-donation-1"></i>
                             </div>
                             <div class="service-content">
-                                <h5>Baby Nursery</h5>
-                                <p>Dolor sit amet, consecte tuer elit, sed diam nonummy nibh euismod tincidunt ut
-                                    ldolore magna.</p>
+                                <h5>Guarderia del bebe</h5>
+                                <p>La educacion es la llave maestra que abre puertas.</p>
                             </div>
                         </div>
                     </div>
@@ -109,9 +101,8 @@
                                 <i class="icon-flask-2"></i>
                             </div>
                             <div class="service-content">
-                                <h5>Laboratory</h5>
-                                <p>Lorem ipsum dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh
-                                    euismod tincidunt ut.</p>
+                                <h5>Laboratorio</h5>
+                                <p>Grandes laboratorios con sus mejores medicinas para ti.</p>
                             </div>
                         </div>
                     </div>
@@ -122,9 +113,8 @@
                                 <i class="icon-emergency-call-1"></i>
                             </div>
                             <div class="service-content">
-                                <h5>Emergency Room</h5>
-                                <p>Dolor sit amet, consecte tuer elit, sed diam nonummy nibh euismod tincidunt ut
-                                    ldolore magna.</p>
+                                <h5>Sala de emergencia</h5>
+                                <p>La atención no debe comenzar en la sala de emergencia.</p>
                             </div>
                         </div>
                     </div>
@@ -161,17 +151,17 @@
             <div class="col-12 col-sm-6 col-lg-3">
                 <div class="single-cool-fact-area text-center mb-100">
                     <i class="icon-microscope"></i>
-                    <h2><span class="counter">25</span></h2>
-                    <h6>Specialities</h6>
-                    <p>Dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.</p>
+                    <h2><span class="counter">20</span></h2>
+                    <h6>Especialidades</h6>
+                    <p>Las mejores atenciones con los mejores doctores de distintas especialidades.</p>
                 </div>
             </div>
             <!-- Single Cool Fact-->
             <div class="col-12 col-sm-6 col-lg-3">
                 <div class="single-cool-fact-area text-center mb-100">
                     <i class="icon-doctor-1"></i>
-                    <h2><span class="counter">723</span></h2>
-                    <h6>Doctors</h6>
+                    <h2><span class="counter">100</span></h2>
+                    <h6>Doctores</h6>
                     <p>Dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.</p>
                 </div>
             </div>
@@ -220,12 +210,8 @@
         <div class="row align-items-center">
             <div class="col-12 col-lg-6">
                 <div class="features-content">
-                    <h2>A new way to treat pacients in a revolutionary facility</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-                        tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem ipsum dolor sit amet,
-                        consectetuer adipiscing eli.Lorem ipsum dolor sit amet, consec tetuer adipiscing elit, sed
-                        diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Lorem
-                        ipsum dolor sit amet, consectetuer.</p>
+                    <h2>Una nueva forma de tratar a los pacientes en una instalacion revolucionaria</h2>
+                    <p>Esta es una forma de que puedas conocer todos nuestros servicios prestados para los pacientes enfermos de salud</p>
                     <a href="#" class="btn medilife-btn mt-50">View the services <span>+</span></a>
                 </div>
             </div>
@@ -259,8 +245,8 @@
                         <div class="post-author">
                             <a href="#"><img src="medical/img/blog-img/p1.jpg" alt=""></a>
                         </div>
-                        <a href="#" class="headline">New drog release soon</a>
-                        <p>Dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.
+                        <a href="#" class="headline">Nuevo lanzamiento de drog pronto</a>
+                        <p>Tus mejores medicinas para la salud la encuentras aca.
                         </p>
                         <a href="#" class="comments">3 Comments</a>
                     </div>
@@ -282,8 +268,8 @@
                         <div class="post-author">
                             <a href="#"><img src="medical/img/blog-img/p2.jpg" alt=""></a>
                         </div>
-                        <a href="#" class="headline">Free dental care</a>
-                        <p>Dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.
+                        <a href="#" class="headline">cuidado dental gratuito</a>
+                        <p>Cuidar tus dientes hace una mejor sonrisa.
                         </p>
                         <a href="#" class="comments">3 Comments</a>
                     </div>
@@ -305,8 +291,8 @@
                         <div class="post-author">
                             <a href="#"><img src="medical/img/blog-img/p3.jpg" alt=""></a>
                         </div>
-                        <a href="#" class="headline">Good news for the pacients</a>
-                        <p>Dolor sit amet, consecte tuer adipiscing elit, sed diam nonummy nibh euismod tincidunt.
+                        <a href="#" class="headline">Buenas noticias para los pacientes</a>
+                        <p>Tener buenas noticias de tu pacientes es la mejor noticia.
                         </p>
                         <a href="#" class="comments">3 Comments</a>
                     </div>
@@ -324,7 +310,7 @@
             <div class="col-12 col-lg-6">
                 <div class="emergency-content">
                     <i class="icon-smartphone"></i>
-                    <h2>For Emergency calls</h2>
+                    <h2>Para llamadas de emergencia</h2>
                     <h3>+12-823-611-8721</h3>
                 </div>
             </div>
