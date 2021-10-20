@@ -16,10 +16,13 @@
   <!-- Theme style -->
   {!! Html::style('adminlte/dist/css/adminlte.min.css') !!}
 </head>
+<body background="image/doctor.jpg">
 <body class="hold-transition login-page">
 <div class="login-box">
+
+        @yield('content')
   <!-- /.login-logo -->
-  @yield('content')
+
   <!-- /.card -->
 </div>
 <!-- /.login-box -->
@@ -30,5 +33,6 @@
 {!! Html::script('adminlte/plugins/bootstrap/js/bootstrap.bundle.min.js') !!}
 <!-- AdminLTE App -->
 {!! Html::script('adminlte/dist/js/adminlte.min.js') !!}
+</body>
 </body>
 </html>

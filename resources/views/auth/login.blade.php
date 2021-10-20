@@ -2,7 +2,7 @@
 @section('content')
 <div class="card card-outline card-primary">
     <div class="card-header text-center">
-      <a href="{{route('welcome')}}" class="h1"><b>Texvn</b>Online</a>
+      <a href="{{route('welcome')}}" class="h1"><b>Medi</b>Fix</a>
     </div>
     <div class="card-body">
       <p class="login-box-msg">Regístrese para iniciar su sesión</p>
@@ -51,16 +51,6 @@
           <!-- /.col -->
         </div>
       </form>
-
-      {{--  <div class="social-auth-links text-center mt-2 mb-3">
-        <a href="#" class="btn btn-block btn-primary">
-          <i class="fab fa-facebook mr-2"></i> Sign in using Facebook
-        </a>
-        <a href="#" class="btn btn-block btn-danger">
-          <i class="fab fa-google-plus mr-2"></i> Sign in using Google+
-        </a>
-      </div>  --}}
-      <!-- /.social-auth-links -->
 
       <p class="mb-1">
         @if (Route::has('password.request'))
