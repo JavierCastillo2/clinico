@@ -4,7 +4,7 @@
 <!-- DataTables -->
 {!! Html::style('adminlte/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css') !!}
 {!! Html::style('adminlte/plugins/datatables-responsive/css/responsive.bootstrap4.min.css') !!}
-{!! Html::style('adminlte/plugins/datatables-buttons/css/buttons.bootstrap4.min.css') !!}     
+{!! Html::style('adminlte/plugins/datatables-buttons/css/buttons.bootstrap4.min.css') !!}
 @endsection
 @section('content')
 <div class="content-wrapper">
@@ -58,12 +58,6 @@
                       </tbody>
                     </table>
                 </div>
-                  
-                {{--  <form method="POST" action="{{ route('users.destroy', $user) }}" name="delete_form">
-                      {{ csrf_field() }}
-                      {{ method_field('DELETE') }}
-                </form>  --}}
-                <!-- /.card-body -->
             </div>
             <!-- /.card -->
         </div><!-- /.container-fluid -->
@@ -85,7 +79,7 @@
 {!! Html::script('adminlte/plugins/datatables-buttons/js/buttons.html5.min.js') !!}
 {!! Html::script('adminlte/plugins/datatables-buttons/js/buttons.print.min.js') !!}
 {!! Html::script('adminlte/plugins/datatables-buttons/js/buttons.colVis.min.js') !!}
-@include('includes._datatable_language')   
+@include('includes._datatable_language')
 @endsection
 
 

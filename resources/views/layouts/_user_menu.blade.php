@@ -13,21 +13,6 @@
           <small>{{Auth::user()->created_at->diffForHumans()}}</small>
         </p>
       </li>
-      <!-- Menu Body -->
-      {{--  <li class="user-body">
-        <div class="row">
-          <div class="col-4 text-center">
-            <a href="#">Followers</a>
-          </div>
-          <div class="col-4 text-center">
-            <a href="#">Sales</a>
-          </div>
-          <div class="col-4 text-center">
-            <a href="#">Friends</a>
-          </div>
-        </div>
-        <!-- /.row -->
-      </li>  --}}
       <!-- Menu Footer-->
       <li class="user-footer">
         <a
