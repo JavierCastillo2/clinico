@@ -19,11 +19,11 @@
     ">
       Recetas
     </a>
-    <a href="{{route('patient.invoice')}}" class="list-group-item list-group-item-action
+    <!-- <a href="{{route('patient.invoice')}}" class="list-group-item list-group-item-action
     {!! active_class(route('patient.invoice')) !!}
     ">
       Facturación
-    </a>
+    </a> -->
     <a href="{{route('patient.edit_profile')}}" class="list-group-item list-group-item-action
     {!! active_class(route('patient.edit_profile')) !!}
     ">
