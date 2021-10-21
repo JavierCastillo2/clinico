@@ -23,7 +23,7 @@
     <div class="container">
       <a href="{{route('patient.index')}}" class="navbar-brand">
         <img src="{!!asset('adminlte/dist/img/AdminLTELogo.png')!!}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
-        <span class="brand-text font-weight-light">Texvn Online</span>
+        <span class="brand-text font-weight-light">MediFix</span>
       </a>
 
       <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -58,7 +58,7 @@
         <script type="text/javascript">
             document.write(new Date().getFullYear());
           </script>
-        <a href="#">sistema clinico</a>.</strong> Doctor especialidad
+        <a href="#">sistema clinico</a>.</strong> Todos los derechos reservados
   </footer>
 </div>
 <!-- ./wrapper -->

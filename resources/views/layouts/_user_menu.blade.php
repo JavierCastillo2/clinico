@@ -21,7 +21,7 @@
         @else
         href="{{route('users.show', Auth::user())}}"
         @endif
-        class="btn btn-default btn-flat">Perfil</a>
+        class="btn btn-default btn-flat"></a>
         <a href="{{ route('logout') }}"
         onclick="event.preventDefault();
                       document.getElementById('logout-form').submit();" class="btn btn-default btn-flat float-right">Cerrar sesión</a>
