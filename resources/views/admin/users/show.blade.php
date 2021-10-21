@@ -59,7 +59,7 @@
                       <hr>
                       <strong><i class="fas fa-pencil-alt mr-1"></i> Fecha de nacimiento</strong>
                       <p class="text-muted">
-                        {{$user->profile->birthdate->format('l jS \\of F Y')}}
+                      {{-- {{$user->profile->birthdate->format('l jS \\of F Y')}}         --}}
                       </p>
                       <hr>
                       <strong><i class="fas fa-pencil-alt mr-1"></i> Edad</strong>
